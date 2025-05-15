@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<worksheet>
+  <title>An Additional Worksheet</title>
+  <page>
+    <exercise workspace="3in">
+      <statement>
+        <p>
+          This is just a new exercise to create a chance to pull updates.
+        </p>
+      </statement>
+      <solution component="w3s">
+        <p>
+          This is the solution to the additional exercise.
+        </p>
+      </solution>
+    </exercise>
+  </page>
+</worksheet>
